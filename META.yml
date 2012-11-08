@@ -1,0 +1,23 @@
+---
+abstract: 'Watch wordpress releases'
+author:
+  - 'Steven Haryanto <stevenharyanto@gmail.com>'
+build_requires:
+  Module::Build: 0.3601
+configure_requires:
+  Module::Build: 0.3601
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300006, CPAN::Meta::Converter version 2.113640'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Software-Release-Watch-SW-wordpress
+requires:
+  Moo: 0
+  Software::Release::Watch: 0.01
+  perl: 5.010001
+resources:
+  homepage: http://metacpan.org/release/Software-Release-Watch-SW-wordpress
+  repository: http://github.com/sharyanto/perl-Software-Release-Watch-SW-wordpress
+version: 0.01

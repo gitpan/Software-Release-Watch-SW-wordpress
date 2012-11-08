@@ -1,0 +1,15 @@
+Build.PL
+Changes
+LICENSE
+MANIFEST
+MANIFEST.SKIP
+META.json
+META.yml
+README
+dist.ini
+lib/Software/Release/Watch/SW/wordpress.pm
+t/00-compile.t
+t/data/url.html
+t/release-pod-coverage.t
+t/release-pod-syntax.t
+t/release-rinci.t
